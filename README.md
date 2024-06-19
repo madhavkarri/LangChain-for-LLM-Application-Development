@@ -1,4 +1,4 @@
-# LangChain-for-LLM-Application-Development
+# LangChain for LLM Application Development
 - LangChain for LLM Application Development: Gain essential skills in expanding the use cases and capabilities of language models in application development using the LangChain framework
 - Models, Prompts and Parsers: calling LLMs, providing prompts and parsing the response.
 - Memories for LLMs: memories to store conversations and manage limited context space.
